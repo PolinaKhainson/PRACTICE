@@ -115,7 +115,7 @@ public class StudentTableView {
         TableColumn nameColumn2=new TableColumn("FirstName");
         nameColumn2.setCellValueFactory(new PropertyValueFactory<Student, String>("firstName"));
         nameColumn2.setSortable(true);
-        nameColumn2.setPrefWidth((ReviewStudentsList.weight - 400) - 240);
+        nameColumn2.setPrefWidth((ReviewStudentsList.weight - 400) - 400);
         nameColumn2.setResizable(true);
         nameColumn2.setEditable(true);
         nameColumn2.setCellFactory(TextFieldTableCell.<ObservableList<StringProperty>>forTableColumn());
