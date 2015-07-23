@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="library-java-utils">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/library-java-utils.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/library-java-utils.jar!/jshortcut-0_4/doc/api" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/library-java-utils.jar!/jshortcut-0_4/src" />
+    </SOURCES>
+  </library>
+</component>
